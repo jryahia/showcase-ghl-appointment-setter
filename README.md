@@ -43,6 +43,10 @@ Inbound leads go cold while waiting for a human to qualify and schedule them. Th
 
 ![Leads, upcoming appointments and open slots](assets/00-api-dashboard.png)
 
+**Booking assistant chat widget**
+
+![Booking assistant chat widget](assets/11-chat.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
