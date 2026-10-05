@@ -39,6 +39,8 @@ Inbound leads go cold while waiting for a human to qualify and schedule them. Th
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Leads, upcoming appointments and open slots**
 
 ![Leads, upcoming appointments and open slots](assets/00-api-dashboard.png)
